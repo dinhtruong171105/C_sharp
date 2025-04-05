@@ -1,6 +1,6 @@
 - Bài tập nhỏ là những bài tập trong lưu đồ thuật toán
 - Bài tập lớn bao gồm:
-    - Bài 1: Xây dựng lớp PhanSo, có phương thức Nhập, Xuất, tổng hiệu tích thương, rút gọn, so sánh, sắp xếp tăng dần, giảm dần
+    + Bài 1: Xây dựng lớp PhanSo, có phương thức Nhập, Xuất, tổng hiệu tích thương, rút gọn, so sánh, sắp xếp tăng dần, giảm dần
     + Bài 2: 
     + Bài 3: Xuất ra thời gian hiện tại, và cứ sau 1 giây thì lại xuất tiếp thời gian hiện tại. VD: Thời gian hiện tại: Thứ bảy, ngày 5/4/2025, thời gian: 9:03:12
                                                                                                     Thời gian hiện tại: Thứ bảy, ngày 5/4/2025, thời gian: 9:03:13
