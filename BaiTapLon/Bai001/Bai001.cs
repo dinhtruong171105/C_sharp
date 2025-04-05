@@ -38,7 +38,6 @@ namespace Bai001
             foreach (var ps in danhSach)
                 ps.Xuat();
 
-            // Thực hiện các phép toán giữa 2 phân số đầu tiên (nếu có)
             if (danhSach.Count >= 2)
             {
                 var a = danhSach[0];
@@ -50,7 +49,7 @@ namespace Bai001
                 Console.WriteLine($"Thương {a} / {b} = {PhanSo.Thuong(a, b)}");
             }
 
-            Console.ReadLine(); // Để giữ console không tắt ngay
+            Console.ReadLine();
         }
     }
 }

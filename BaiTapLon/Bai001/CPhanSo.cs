@@ -11,7 +11,7 @@ namespace Bai001
         public PhanSo(int tu = 0, int mau = 1)
         {
             Tu = tu;
-            Mau = mau == 0 ? 1 : mau;
+            Mau = mau;
             RutGon();
         }
 
@@ -22,12 +22,6 @@ namespace Bai001
 
             Console.Write("Nhập mẫu số: ");
             Mau = int.Parse(Console.ReadLine());
-
-            if (Mau == 0)
-            {
-                Console.WriteLine("Mẫu số không thể bằng 0. Gán mẫu = 1.");
-                Mau = 1;
-            }
 
             RutGon();
         }
@@ -66,7 +60,6 @@ namespace Bai001
             Tu /= ucln;
             Mau /= ucln;
 
-            // Đảm bảo mẫu số luôn dương
             if (Mau < 0)
             {
                 Tu = -Tu;
@@ -94,7 +87,10 @@ namespace Bai001
 
         public override string ToString()
         {
-            return Mau == 1 ? $"{Tu}" : $"{Tu}/{Mau}";
+            if (Mau == 1)
+                return Tu.ToString();
+            else
+                return $"{Tu}/{Mau}";
         }
     }
 }
