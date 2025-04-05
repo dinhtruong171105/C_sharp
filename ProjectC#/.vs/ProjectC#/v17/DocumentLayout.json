@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\ProjectC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6C621C-1E41-47DD-A745-12BD6C2EBC3F}|Bai011\\Bai011.csproj|d:\\c#\\projectc#\\bai011\\diemtoado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6C621C-1E41-47DD-A745-12BD6C2EBC3F}|Bai011\\Bai011.csproj|solutionrelative:bai011\\diemtoado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145434B2-9D7C-4100-BB23-30245D14CB1B}|Bai114\\Bai114.csproj|d:\\c#\\projectc#\\bai114\\bai114.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145434B2-9D7C-4100-BB23-30245D14CB1B}|Bai114\\Bai114.csproj|solutionrelative:bai114\\bai114.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiemToaDo.cs",
+              "DocumentMoniker": "D:\\C#\\ProjectC#\\Bai011\\DiemToaDo.cs",
+              "RelativeDocumentMoniker": "Bai011\\DiemToaDo.cs",
+              "ToolTip": "D:\\C#\\ProjectC#\\Bai011\\DiemToaDo.cs",
+              "RelativeToolTip": "Bai011\\DiemToaDo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:46:31.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai114.cs",
+              "DocumentMoniker": "D:\\C#\\ProjectC#\\Bai114\\Bai114.cs",
+              "RelativeDocumentMoniker": "Bai114\\Bai114.cs",
+              "ToolTip": "D:\\C#\\ProjectC#\\Bai114\\Bai114.cs",
+              "RelativeToolTip": "Bai114\\Bai114.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:15:41.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1268,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\C#\ProjectC#\Bai011\bin\Debug\Bai011.exe.config
+D:\C#\ProjectC#\Bai011\bin\Debug\Bai011.exe
+D:\C#\ProjectC#\Bai011\bin\Debug\Bai011.pdb
+D:\C#\ProjectC#\Bai011\obj\Debug\Bai011.csproj.AssemblyReference.cache
+D:\C#\ProjectC#\Bai011\obj\Debug\Bai011.csproj.CoreCompileInputs.cache
+D:\C#\ProjectC#\Bai011\obj\Debug\Bai011.exe
+D:\C#\ProjectC#\Bai011\obj\Debug\Bai011.pdb
